@@ -1,0 +1,1 @@
+## Here , I have used Multiple RNN architectures like - Vanilla RNN , LSTM , GRU as well as their vvariations like BiDirectionalRNN , BIDirectionalGRU , BiDirectional LSTM alongwith deep RNN to process text data .
